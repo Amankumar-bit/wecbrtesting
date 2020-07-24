@@ -9950,7 +9950,7 @@ ul.dropdown-menu li a:focus {
 
 @media (min-width: 768px) and (max-width: 991px) {
     .header-logo span {
-        display: none;
+        /* display: none; */
     }
 }
 
@@ -10314,7 +10314,7 @@ ul.dropdown-menu li a:focus {
 
 @media (max-width: 767px) {
     .header-action {
-        display: none;
+        /* display: none; */
     }
 }
 
@@ -15222,3 +15222,4 @@ ol li {
         line-height: 24px;
     }
 }
+
